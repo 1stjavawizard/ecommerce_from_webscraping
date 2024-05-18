@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.pare.price"},{"l":"com.pare.price.controller"},{"l":"com.pare.price.dao"},{"l":"com.pare.price.model"},{"l":"com.pare.price.util"}];updateSearchResults();

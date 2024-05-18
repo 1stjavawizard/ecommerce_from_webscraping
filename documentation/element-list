@@ -1,0 +1,5 @@
+com.pare.price
+com.pare.price.controller
+com.pare.price.dao
+com.pare.price.model
+com.pare.price.util
