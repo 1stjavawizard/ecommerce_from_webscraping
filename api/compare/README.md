@@ -12,8 +12,8 @@ This Node.js API is designed to support a price comparison website that allows u
 To get started with this API, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/price-comparison-api.git
-cd price-comparison-api
+git clone https://github.com/1stjavawizard/ecommerce_from_webscraping.git
+cd api/compare/
 npm install
 ```
 
@@ -23,7 +23,7 @@ Create a `.env` file in the root directory and add your database configuration:
 ```env
 DB_HOST=localhost
 DB_USER=root
-DB_PASS=password
+DB_PASS=
 DB_NAME=compare_db
 ```
 
